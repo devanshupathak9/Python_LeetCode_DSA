@@ -1,3 +1,3 @@
-# DSA Python.
-# Data Structure and Algorithm using Python.
-# Leetcode problems
+# DSA Python
+# Data Structure and Algorithms Using Python
+<br>Leetcode problems
